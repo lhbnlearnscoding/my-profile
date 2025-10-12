@@ -17,4 +17,4 @@ I have some public projects
 
 ## Learning
 
-Well i am willing to learn new thing and wanna have some hand-on experience in the field
+Well i am willing to learn new thing and wanna have some hand-on experience in the field. I create this github to record my journey of learning how to code
