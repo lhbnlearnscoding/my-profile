@@ -8,7 +8,7 @@ hi my name is Huynh Bao Ngoc Le ( ja, for short you can call me Ngoc )
 ## 🔗 Links
 - ✉️ Email: lhbn2005@gmail.com
 - 🌐 Portfolio: lhbnlearnscoding.github.io
-- 💼 LinkedIn: www.linkedin.com/in/huynh-bao-ngoc-le-10b73a321
+- 💼 LinkedIn: www.linkedin.com/in/huynh-bao-ngoc-le
 
 ## 🚀 Featured Projects
 I have some public projects
